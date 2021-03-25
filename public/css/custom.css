@@ -1,0 +1,16 @@
+body{
+    font-family: 'Open Sans';
+}
+.parallax{
+    background-image: url("../images/cup-of-coffee-1280537__340.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    min-height: 400px;
+}
+
+.topDiv
+{
+    margin-top: 120px;
+}
